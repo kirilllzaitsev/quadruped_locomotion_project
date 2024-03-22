@@ -1,1 +1,1 @@
-# quadruped_locomotion_project
+# Quadruped locomotion via model-based RL
